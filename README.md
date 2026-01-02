@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-📍 **New Hampshire** | 🤖 **Building with agents** | ♻️ **I used to refactor. Now I re-prompt.**
+📍 **New Hampshire** | 🤖 **Assistant to the agents** | 🚀 **Zero to Done**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -15,6 +15,8 @@
 
 ## Current Projects
 
+- 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Safe mode for AI agents
+- 🤖 **[oh-my-opencode](https://github.com/oh-my-opencode)** – AI agent orchestration framework
 - 📝 **[worklog](https://github.com/jvalentini/worklog)** – Generate daily stand-up summaries from AI coding sessions
 - 🤖 **[.claude](https://github.com/jvalentini/.claude)** – My Claude agent configs and commands
 - 📚 **[cld](https://github.com/jvalentini/cld)** – Convert DOCX question files into interactive web quizzes
@@ -32,6 +34,7 @@
 
 [![Blog](https://img.shields.io/badge/-jvalentini.pages.dev-FF5722?style=flat-square&logo=astro&logoColor=white)](https://jvalentini.pages.dev)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jvalentini)
+[![Worksafe](https://img.shields.io/badge/-worksafe.pages.dev-4FC08D?style=flat-square&logo=shield&logoColor=white)](https://worksafe.pages.dev)
 
 ---
 
