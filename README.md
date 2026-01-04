@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-📍 **New Hampshire** | 🤖 **Assistant to the agents** | 🚀 **Zero to Done**
+## 🤖 Assistant to the agents | 🚀 Zero to Done
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,32 +11,17 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 
-> Mass un-learning everything from Clean Code. Shipping fast with AI, iterating faster.
+<div align="center">
+  <em>Done is better than perfect.</em>
+</div>
 
 ## Current Projects
 
-- 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Safe mode for AI agents
-- 🤖 **[oh-my-opencode](https://github.com/oh-my-opencode)** – AI agent orchestration framework
+- 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Safe mode for AI agents - https://worksafe.pages.dev
 - 📝 **[worklog](https://github.com/jvalentini/worklog)** – Generate daily stand-up summaries from AI coding sessions
-- 🤖 **[.claude](https://github.com/jvalentini/.claude)** – My Claude agent configs and commands
-- 📚 **[cld](https://github.com/jvalentini/cld)** – Convert DOCX question files into interactive web quizzes
-- 🚀 **[inertia-rails/vue-starter-kit](https://github.com/inertia-rails/vue-starter-kit)** – Inertia Rails + Vue starter
-- ✍️ **[blog](https://github.com/jvalentini/blog)** – Built with Astro
-- ⚙️ **[dotfiles](https://github.com/jvalentini/dotfiles)** – Shell configs
 - ⌨️ **[tabgen](https://github.com/jvalentini/tabgen)** – Auto-generate tab completions from --help and man pages
-
-## What I'm Doing
-
-- **Vibe coding** – Letting Claude write the first draft, then shipping it
-- **Rails + Vue** – Modern monoliths with Inertia
-- **Agent workflows** – Automating the boring parts
-
-## Connect
-
-[![Blog](https://img.shields.io/badge/-jvalentini.pages.dev-FF5722?style=flat-square&logo=astro&logoColor=white)](https://jvalentini.pages.dev)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jvalentini)
-[![Worksafe](https://img.shields.io/badge/-worksafe.pages.dev-4FC08D?style=flat-square&logo=shield&logoColor=white)](https://worksafe.pages.dev)
-
----
-
-> "Done is better than perfect."
+- ✍️ **[blog](https://github.com/jvalentini/blog)** – Personal blog - https://jvalentini.pages.dev
+- 📚 **[cld](https://github.com/jvalentini/cld)** – Convert DOCX question files into interactive web quizzes
+- 🤖 **[oh-my-opencode](https://github.com/oh-my-opencode)** – AI agent orchestration framework
+- ⚙️ **[dotfiles](https://github.com/jvalentini/dotfiles)** – Shell configs
+- 🤖 **[.claude](https://github.com/jvalentini/.claude)** – My Claude agent configs and commands
