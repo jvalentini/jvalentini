@@ -23,6 +23,7 @@
 - 🚀 **[inertia-rails/vue-starter-kit](https://github.com/inertia-rails/vue-starter-kit)** – Inertia Rails + Vue starter
 - ✍️ **[blog](https://github.com/jvalentini/blog)** – Built with Astro
 - ⚙️ **[dotfiles](https://github.com/jvalentini/dotfiles)** – Shell configs
+- ⌨️ **[tabgen](https://github.com/jvalentini/tabgen)** – Auto-generate tab completions from --help and man pages
 
 ## What I'm Doing
 
