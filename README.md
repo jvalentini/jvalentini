@@ -17,10 +17,10 @@
 
 ## Current Projects
 
-- 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Safe mode for AI agents - https://worksafe.pages.dev
-- 📝 **[worklog](https://github.com/jvalentini/worklog)** – Generate daily stand-up summaries from AI coding sessions
+- 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Transform profanity and unprofessional language into workplace-appropriate communication. - https://worksafe.pages.dev
+- 📝 **[worklog](https://github.com/jvalentini/worklog)** – Generate daily stand-up summaries from AI coding sessions, git commits, and GitHub activity
 - ⌨️ **[tabgen](https://github.com/jvalentini/tabgen)** – Auto-generate tab completions from --help and man pages
-- ✍️ **[blog](https://github.com/jvalentini/blog)** – Personal blog - https://jvalentini.pages.dev
+- ✍️ **[blog](https://github.com/jvalentini/blog)** – Personal blog built with Astro, deployed on Cloudflare Pages. - https://jvalentini.pages.dev
 - 📚 **[cld](https://github.com/jvalentini/cld)** – Convert DOCX question files into interactive web quizzes
 - 🤖 **[oh-my-opencode](https://github.com/oh-my-opencode)** – AI agent orchestration framework
 - ⚙️ **[dotfiles](https://github.com/jvalentini/dotfiles)** – Shell configs
