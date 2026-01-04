@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-## 🤖 Assistant to the agents | 🚀 Zero to Done
+## 🤖 Assistant to the agents | 🚀 Zero to Done | ✨ Done is better than perfect
 
 ![OpenCode](https://img.shields.io/badge/-OpenCode-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
@@ -17,9 +17,7 @@
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<div align="center">
-  <em>Done is better than perfect.</em>
-</div>
+
 
 ## Current Projects
 
