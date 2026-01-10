@@ -21,6 +21,8 @@
 
 ## Current Projects
 
+- 🍞 **[bakery](https://github.com/jvalentini/bakery)** – Create new CLI projects with modern TypeScript tooling
+- 💪 **[speak-strong](https://github.com/jvalentini/speak-strong)** – CLI tool to transform weak language into strong, confident communication
 - 🛡️ **[worksafe](https://github.com/jvalentini/worksafe)** – Transform profanity and unprofessional language into workplace-appropriate communication.
   - https://worksafe.pages.dev
 - 📝 **[worklog](https://github.com/jvalentini/worklog)** – Generate daily stand-up summaries from AI coding sessions, git commits, and GitHub activity
