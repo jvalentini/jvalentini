@@ -7,15 +7,21 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TanStack](https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+
+![Effect](https://img.shields.io/badge/-Effect-8B5CF6?style=flat-square&logo=typescript&logoColor=white)
 
 
 
